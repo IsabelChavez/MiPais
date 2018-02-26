@@ -12,7 +12,15 @@ Estás son las personas a las ue consideramos importantes para el desarrollo de 
 
 - CEO
   1. ¿Cuál es el propósito que quiere conseguir con la transformación digital?
+  2. ¿En cuánto tiempo estima conseguir la transformación digital?
+  3. ¿Qué es lo que espera conseguir durante la transformación digital?
+  
 - Gerentes (Riesgos, Marketing, Operaciones, RRHH, IT)
+  2. ¿Cúal es el riesgo de realizar esta transformación?
+  3. ¿Cúal será la estrategia para poder desarrollar el producto?
+  4. ¿Qué personas vamos a necesitar al momento de desarrollar el proyecto?
+  5. ¿Qué tecnologías usaremos?
+  
 - Product Managers
 - Regulador estatal
 - Jefes
