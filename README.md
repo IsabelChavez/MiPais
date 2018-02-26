@@ -11,6 +11,7 @@ Es por ello que nace que se propone crear un nuevo banco, basado en tecnología 
 Estás son las personas a las ue consideramos importantes para el desarrollo de nuestro proyecto.
 
 - CEO
+  1. ¿Cuál es el propósito que quiere conseguir con la transformación digital?
 - Gerentes (Riesgos, Marketing, Operaciones, RRHH, IT)
 - Product Managers
 - Regulador estatal
