@@ -11,15 +11,15 @@ Es por ello que nace que se propone crear un nuevo banco, basado en tecnología 
 Estás son las personas a las ue consideramos importantes para el desarrollo de nuestro proyecto.
 
 1. CEO
-  - ¿Cuál es el propósito que quiere conseguir con la transformación digital?
-  - En cuánto tiempo estima conseguir la transformación digital?
-  - Qué es lo que espera conseguir durante la transformación digital?
+    - ¿Cuál es el propósito que quiere conseguir con la transformación digital?
+    - En cuánto tiempo estima conseguir la transformación digital?
+    - Qué es lo que espera conseguir durante la transformación digital?
   
 2. Gerentes (Riesgos, Marketing, Operaciones, RRHH, IT)
-  - Cúal es el riesgo de realizar esta transformación?
-  - Cúal será la estrategia para poder desarrollar el producto?
-  - Qué personas vamos a necesitar al momento de desarrollar el proyecto?
-  - Qué tecnologías usaremos?
+    - Cúal es el riesgo de realizar esta transformación?
+    - Cúal será la estrategia para poder desarrollar el producto?
+    - Qué personas vamos a necesitar al momento de desarrollar el proyecto?
+    - Qué tecnologías usaremos?
   
 - Product Managers
 - Regulador estatal
