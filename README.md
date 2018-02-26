@@ -12,14 +12,14 @@ Estás son las personas a las ue consideramos importantes para el desarrollo de 
 
 1. CEO
     - ¿Cuál es el propósito que quiere conseguir con la transformación digital?
-    - En cuánto tiempo estima conseguir la transformación digital?
-    - Qué es lo que espera conseguir durante la transformación digital?
+    - ¿En cuánto tiempo estima conseguir la transformación digital?
+    - ¿Qué es lo que espera conseguir durante la transformación digital?
   
 2. Gerentes (Riesgos, Marketing, Operaciones, RRHH, IT)
-    - Cúal es el riesgo de realizar esta transformación?
-    - Cúal será la estrategia para poder desarrollar el producto?
-    - Qué personas vamos a necesitar al momento de desarrollar el proyecto?
-    - Qué tecnologías usaremos?
+    - ¿Cúal es el riesgo de realizar esta transformación?
+    - ¿Cúal será la estrategia para poder desarrollar el producto?
+    - ¿Qué personas vamos a necesitar al momento de desarrollar el proyecto?
+    - ¿Qué tecnologías usaremos?
   
 - Product Managers
 - Regulador estatal
@@ -34,8 +34,9 @@ Estás son las personas a las ue consideramos importantes para el desarrollo de 
 
 Crear un banco digital para millennials que pueda adaptarse a sus necesidades ofreciendoles todos los sevicios de un banco tradicional.
 
+
 ### Bussines Model Canvas
 
-![Sin titulo](assets/bmc1.png)
+![Nuestro Neobanco](assets/docs/1.jpeg)
 
-![Sin titulo](assets/bmc2.png)
+![Banco tradicional](assets/docs/2.jpeg)
