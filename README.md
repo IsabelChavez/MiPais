@@ -38,6 +38,6 @@ Crear un banco digital para millennials que pueda adaptarse a sus necesidades of
 
 ### Bussines Model Canvas
 
-![Sin titulo](assets/1.jpeg)
+![Sin titulo](assets/docs/1.jpeg)
 
-![Sin titulo](assets/2.jpeg)
+![Sin titulo](assets/docs/2.jpeg)
