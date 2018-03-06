@@ -38,6 +38,24 @@ Crear un banco digital para millennials que pueda adaptarse a sus necesidades of
 
 ### Bussines Model Canvas
 
-![Sin titulo](assets/docs/1.jpeg)
+![BMC de nuestro neobanco](assets/docs/1.jpeg)
 
-![Sin titulo](assets/docs/2.jpeg)
+![BMC de un banco tradicional](assets/docs/2.jpeg)
+
+
+
+![Trello](assets/docs/3.jpeg)
+
+
+![img1-estadistica](assets/docs/4.jpeg)
+![img2-estadistica](assets/docs/5.jpeg)
+![img3-estadistica](assets/docs/6.jpeg)
+![img4-estadistica](assets/docs/7.jpeg)
+![img5-estadistica](assets/docs/8.jpeg)
+![img6-estadistica](assets/docs/9.jpeg)
+![img7-estadistica](assets/docs/10.jpeg)
+![img8-estadistica](assets/docs/11.jpeg)
+![img9-estadistica](assets/docs/12.jpeg)
+![img10-estadistica](assets/docs/13.jpeg)
+![img11-estadistica](assets/docs/14.jpeg)
+![img12-estadistica](assets/docs/15.jpeg)
