@@ -44,10 +44,10 @@ Crear un banco digital para millennials que pueda adaptarse a sus necesidades of
 
 
 
-![Trello](assets/docs/3.jpeg)
+![Trello](assets/docs/3.png)
 
 
-![img1-estadistica](assets/docs/4.jeg)
+![img1-estadistica](assets/docs/4.jpg)
 ![img2-estadistica](assets/docs/5.png)
 ![img3-estadistica](assets/docs/6.png)
 ![img4-estadistica](assets/docs/7.png)
