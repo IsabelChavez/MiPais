@@ -43,14 +43,21 @@ Crear un banco digital para millennials que pueda adaptarse a sus necesidades of
 ![BMC de un banco tradicional](assets/docs/2.jpeg)
 
 
+# Flujo de trabajo 
+
+Trabajamos con la herramienta Trello
 
 ![Trello](assets/docs/3.png)
+![Trello](assets/docs/3.1png)
 
+Realizamos entrevistas presencialmente y virtualmente.
 
-![img1-estadistica](assets/docs/4.jpg)
+![img](assets/docs/16.jpg)
+
 ![img2-estadistica](assets/docs/5.png)
 ![img3-estadistica](assets/docs/6.png)
 ![img4-estadistica](assets/docs/7.png)
+![img4-estadistica](assets/docs/7.1.jpeg)
 ![img5-estadistica](assets/docs/8.png)
 ![img6-estadistica](assets/docs/9.png)
 ![img7-estadistica](assets/docs/10.png)
@@ -59,3 +66,40 @@ Crear un banco digital para millennials que pueda adaptarse a sus necesidades of
 ![img10-estadistica](assets/docs/13.png)
 ![img11-estadistica](assets/docs/14.png)
 ![img12-estadistica](assets/docs/15.png)
+
+
+# Afinity map 
+Llegamos a la conclusión de que los usuarios milenials principalmente hacen Pagos, Transferencias, Retiros llegando a la conclusión de que de cada 10 milenials 9 tienen cultura de ahorro.
+
+![img1-estadistica](assets/docs/4.jpg)
+
+## Paper prototyping
+
+![img12-estadistica](assets/docs/17.jpeg)
+![img12-estadistica](assets/docs/18.jpeg)
+![img12-estadistica](assets/docs/19.jpeg)
+![img12-estadistica](assets/docs/20.jpeg)
+
+## Protipo final 
+
+Trabajamos con las herramientas ´ Figma´ ´Marvel´
+
+![Figma](https://www.figma.com/file/F866NsK7ZVvBTnxT9nxv5Q9J/Untitled)
+
+Nuestro producto se presento el día viernes 09-03-18
+
+![Marvel1](https://marvelapp.com/project/2781897/)
+
+
+Recibimos feddback y realizamos los cambios
+
+![Marvel2](https://marvelapp.com/project/2786681/)
+
+
+
+
+
+
+
+
+
