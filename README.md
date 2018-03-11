@@ -48,9 +48,9 @@ Crear un banco digital para millennials que pueda adaptarse a sus necesidades of
 Trabajamos con la herramienta Trello
 
 ![Trello](assets/docs/3.png)
-![Trello](assets/docs/3.1png)
+![Trello](assets/docs/3.1.png)
 
-Realizamos entrevistas presencialmente y virtualmente.
+### Realizamos entrevistas presencialmente y virtualmente.
 
 ![img](assets/docs/16.jpg)
 
@@ -84,16 +84,18 @@ Llegamos a la conclusión de que los usuarios milenials principalmente hacen Pag
 
 Trabajamos con las herramientas ´ Figma´ ´Marvel´
 
-![Figma](https://www.figma.com/file/F866NsK7ZVvBTnxT9nxv5Q9J/Untitled)
+[Figma](https://www.figma.com/file/F866NsK7ZVvBTnxT9nxv5Q9J/Untitled).  |
 
 Nuestro producto se presento el día viernes 09-03-18
 
-![Marvel1](https://marvelapp.com/project/2781897/)
+- [Primer producto opresentado](https://marvelapp.com/39i864e/screen/39487270). |
 
 
 Recibimos feddback y realizamos los cambios
 
-![Marvel2](https://marvelapp.com/project/2786681/)
+- [Producto mejorado](https://marvelapp.com/14a5eh2g/screen/39548994). |
+
+
 
 
 
