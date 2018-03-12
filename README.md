@@ -1,4 +1,4 @@
-# QuipuBank: Un banco para millennials.
+# Mi País: Un banco para millennials.
 
 Los millennials son aquellos nacidos en los años 80 en adelante y poseen características que los hacen únicos: la tecnología, es una herramienta natural para estos jóvenes en su día a día, el internet, el dispositivo móvil, los medios sociales son su forma de vida; están descontentos y son incrédulos, tienden a confiar menos en las personas que las generaciones anteriores, se declaran independientes y forman el grupo con mayor descontento político y religioso.
 
