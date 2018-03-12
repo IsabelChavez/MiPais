@@ -31,7 +31,7 @@ Estás son las personas a las que consideramos importantes para el desarrollo de
 7. Analistas
 8. Auditor
 
-### Objetivo
+## Objetivo para nuestra app
 
 Crear un banco digital para millennials que pueda adaptarse a sus necesidades ofreciendoles todos los sevicios de un banco tradicional.
 
@@ -47,8 +47,9 @@ Trabajamos con la herramienta Trello
 ![Trello](assets/docs/3.1.png)
 
 ***
+# Modelo de entrevista
 
-### Objetivo.
+## Objetivo.
 
 Conocer a fondo a los milenians para crear un banco 100% digital.
 También es importante saber a detalle sus preferencias, gustos, y de qué manera usan la tecnología en su día a día.
@@ -142,6 +143,10 @@ Llegamos a la conclusión de que los usuarios milenials principalmente hacen Pag
 ![img12-estadistica](assets/docs/18.jpeg)
 ![img12-estadistica](assets/docs/19.jpeg)
 ![img12-estadistica](assets/docs/20.jpeg)
+
+#Flujo de nuestra aplicación
+![img](assets/docs/estructura.png)
+
 
 ## Protipo final 
 
