@@ -24,11 +24,6 @@ Estás son las personas a las ue consideramos importantes para el desarrollo de 
 3. Product Managers
     - ¿Con quién elaboraría los estudios de mercado de desarrollarse el producto?
     - ¿Cómo se elaboraría el plan de marketing?
-4. Regulador estatal
-5. Jefes
-6. Ejecutivos
-7. Analistas
-8. Auditor
 
 ## Kick-off
 
