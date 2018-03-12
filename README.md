@@ -86,10 +86,31 @@ Nuestro producto se presento el día viernes 09-03-18
 - [Primer producto opresentado](https://marvelapp.com/39i864e/screen/39487270). |
 
 
+## Obervaciones del Testing
+
+### 1° Testing
+    El primer testeo se realizó en papel, y los usuarios nos indicó lo siguiente:
+    El menú inferior le parece muy común.
+    Quiere tener un perfil.
+
+### 2° Testing
+    El testeo número dos se realizó en un prototipo de alta fidelización, nos hicieron las siguientes observaciones:
+    Nos indicaron que los colores eran muy serios.
+    Les pareció genial la idea de poner el menú rodante en el centro.
+    Que se le agregue la huella dactilar por seguridad.
+
+
 Recibimos feddback y realizamos los cambios
 
 - [Producto mejorado](https://marvelapp.com/14a5eh2g/screen/39548994). |
 
+
+
+
+## Integrantes
+
+    Angélica Villalobos
+    Isabel Chávez
 
 
 
