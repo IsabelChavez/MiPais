@@ -94,15 +94,28 @@ Detailed Interview
 ## Si							                                                    ## No
 
 
-¿Cómo se enteró de la existencia de dicha app?                                      18. ¿Por qué no lo hace?
-¿Tienes dificultad al momento de utilizar la aplicación?                            19. ¿Qué opinas sobre poder hacer las operaciones bancarias desde tu teléfono?
-¿Qué operaciones, suele realizar en la aplicación?                                  20. ¿Por qué motivo no lo hace?
-Qué le motivó a seguir utilizando esa herramienta?                                  21. ¿Qué tendría que ofrecerle, para que usted pueda confiar en una banca móvil?
-¿Usted tiene cultura de ahorro?No:¿Por qué no lo hace?                              22. ¿Usted tiene cultura de ahorro?
-Sí: ¿Dónde ahorra su dinero?                                                        Sí: ¿Dónde ahorra su dinero?
-No:¿Por qué no lo hace?                                                             No:¿Por qué no lo hace?
-¿Qué opinas sobre poder hacer las operaciones bancarias desde tu teléfono?          23. ¿Qué opinas sobre poder hacer las operaciones bancarias desde tu teléfono?
+- ¿Cómo se enteró de la existencia de dicha app?                                     
+- ¿Tienes dificultad al momento de utilizar la aplicación?                            
+- ¿Qué operaciones, suele realizar en la aplicación?                                  
+- ¿Qué le motivó a seguir utilizando esa herramienta?                                  
+- ¿Usted tiene cultura de ahorro?No:¿Por qué no lo hace?                              
+   Sí: ¿Dónde ahorra su dinero?                                                        
+   No:¿Por qué no lo hace?                                                            
+- ¿Qué opinas sobre poder hacer las operaciones bancarias desde tu teléfono?          
 
+
+
+## No
+
+
+- ¿Por qué no lo hace?
+- ¿Qué opinas sobre poder hacer las operaciones bancarias desde tu teléfono?
+- ¿Por qué motivo no lo hace?
+- ¿Qué tendría que ofrecerle, para que usted pueda confiar en una banca móvil?
+- ¿Usted tiene cultura de ahorro?
+  Si:¿Dónde ahorra su dinero?
+  No:¿Por qué no lo hace?
+- ¿Qué opinas sobre poder hacer las operaciones bancarias desde tu teléfono?          
 
                     
 
