@@ -6,9 +6,10 @@ La percepción de las generaciones más jóvenes acerca de los bancos es complet
 
 Es por ello que nace que se propone crear un nuevo banco, basado en tecnología digital. El cual no tienen sucursales físicas y ofrecen servicios a través de aplicación móvil, ya que para estos jovenes la autonomía es la capacidad de lograr metas, amortiguar los imprevistos y sentirse menos dependientes.
 
-## Stakeholders
+# Kick-off
+##  Preguntas a Stakeholders
 
-Estás son las personas a las ue consideramos importantes para el desarrollo de nuestro proyecto.
+Estás son las personas a las que consideramos importantes para el desarrollo de nuestro proyecto.
 
 1. CEO
     - ¿Cuál es el propósito que quiere conseguir con la transformación digital?
@@ -24,8 +25,11 @@ Estás son las personas a las ue consideramos importantes para el desarrollo de 
 3. Product Managers
     - ¿Con quién elaboraría los estudios de mercado de desarrollarse el producto?
     - ¿Cómo se elaboraría el plan de marketing?
-
-## Kick-off
+4. Regulador estatal
+5. Jefes
+6. Ejecutivos
+7. Analistas
+8. Auditor
 
 ### Objetivo
 
@@ -33,10 +37,7 @@ Crear un banco digital para millennials que pueda adaptarse a sus necesidades of
 
 ### Bussines Model Canvas
 
-![BMC de nuestro neobanco](assets/docs/1.jpeg)
-
-![BMC de un banco tradicional](assets/docs/2.jpeg)
-
+![BMC](assets/docs/bmc2.png)
 
 # Flujo de trabajo 
 
@@ -45,7 +46,74 @@ Trabajamos con la herramienta Trello
 ![Trello](assets/docs/3.png)
 ![Trello](assets/docs/3.1.png)
 
-### Realizamos entrevistas presencialmente y virtualmente.
+***
+
+### Objetivo.
+
+Conocer a fondo a los milenians para crear un banco 100% digital.
+También es importante saber a detalle sus preferencias, gustos, y de qué manera usan la tecnología en su día a día.
+
+De qué manera ofrecerle seguridad en sus transacciones.
+Entender qué les gusta y qué no cuando interactúan con sus finanzas personales
+Cuáles son las referencias que tienen estos usuarios en términos de tecnología (apps, dispositivos, etc).
+Los milenians no están familiarizados con el sector financiero.
+
+
+## Introducción.
+Hola, soy “entrevistador” y voy a ser la persona encargada de guiarte durante toda la entrevista. Lo que queremos es conocerte un poco y saber con qué frecuencia visitas un banco, si tienes alguna app que te permita hacer las mismas transacciones que haces en una agencia de una manera más rápida y sencilla. Ésta conversación será grabada, el fín es utilizar la información para la App que estamos desarrollando.
+
+
+
+Warming Up
+
+
+Nombre:
+Edad:
+Distrito:
+Tipo de teléfono:
+Banco de preferencia:
+App del Banco:
+
+
+Detailed Interview
+
+### GUÍA DE ENTREVISTAS
+
+
+¿Usted es titular de una bancaria?¿En qué banco?
+¿Qué tan seguido va usted a un banco?
+¿Qué tipo de operación hace usted cuándo va a un banco?
+¿Ha tenido algún inconveniente cuándo ha realizado algunas operaciones?
+¿Cómo definiría usted su experiencia asistiendo a un banco?
+¿Utilizas la red de cajeros y agentes?
+¿Ha tenido algún inconveniente cuándo ha realizado algunas operaciones?
+¿usted hace uso de alguna app que realice las mismas operaciones que hace al acercarse a un banco?
+                                 
+           
+## Si							                                                    ## No
+
+
+¿Cómo se enteró de la existencia de dicha app?                                      18. ¿Por qué no lo hace?
+¿Tienes dificultad al momento de utilizar la aplicación?                            19. ¿Qué opinas sobre poder hacer las operaciones bancarias desde tu teléfono?
+¿Qué operaciones, suele realizar en la aplicación?                                  20. ¿Por qué motivo no lo hace?
+Qué le motivó a seguir utilizando esa herramienta?                                  21. ¿Qué tendría que ofrecerle, para que usted pueda confiar en una banca móvil?
+¿Usted tiene cultura de ahorro?No:¿Por qué no lo hace?                              22. ¿Usted tiene cultura de ahorro?
+Sí: ¿Dónde ahorra su dinero?                                                        Sí: ¿Dónde ahorra su dinero?
+No:¿Por qué no lo hace?                                                             No:¿Por qué no lo hace?
+¿Qué opinas sobre poder hacer las operaciones bancarias desde tu teléfono?          23. ¿Qué opinas sobre poder hacer las operaciones bancarias desde tu teléfono?
+
+
+                    
+
+### Debrief
+
+De lo que hemos conversado, ¿Hay alguna duda que tengas?, ¿Te gustaría agregar algo más para cerrar la entrevista?
+Muchas gracias por por su tiempo :)
+
+***
+
+
+## Realizamos entrevistas presencialmente y virtualmente.
 
 ![img](assets/docs/16.jpg)
 
@@ -77,7 +145,7 @@ Llegamos a la conclusión de que los usuarios milenials principalmente hacen Pag
 
 ## Protipo final 
 
-Trabajamos con las herramientas ´ Figma´ ´Marvel´
+Trabajamos con las herramientas ´Figma´ ´Marvel´
 
 [Figma](https://www.figma.com/file/F866NsK7ZVvBTnxT9nxv5Q9J/Untitled).  |
 
@@ -86,38 +154,8 @@ Nuestro producto se presento el día viernes 09-03-18
 - [Primer producto opresentado](https://marvelapp.com/39i864e/screen/39487270). |
 
 
-## Obervaciones del Testing
-
-### 1° Testing
-    El primer testeo se realizó en papel, y los usuarios nos indicó lo siguiente:
-    El menú inferior le parece muy común.
-    Quiere tener un perfil.
-
-### 2° Testing
-    El testeo número dos se realizó en un prototipo de alta fidelización, nos hicieron las siguientes observaciones:
-    Nos indicaron que los colores eran muy serios.
-    Les pareció genial la idea de poner el menú rodante en el centro.
-    Que se le agregue la huella dactilar por seguridad.
-
-
 Recibimos feddback y realizamos los cambios
 
 - [Producto mejorado](https://marvelapp.com/14a5eh2g/screen/39548994). |
-
-
-
-
-## Integrantes
-
-    Angélica Villalobos
-    Isabel Chávez
-
-
-
-
-
-
-
-
 
 
