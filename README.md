@@ -1,4 +1,4 @@
-# Mi País
+# Mi Pais
 
 Mi país, es una aplicación orientada a los millnnials personas de 18-30años aproximadamente, buscando la facilidad y comodidad al realizar sus transferencias, pagos y retiros sin necesidad de acercarse a un banco.
 
