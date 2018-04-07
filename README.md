@@ -5,7 +5,8 @@ Mi país, es una aplicación orientada a los millnnials personas de 18-30años a
 ![inicio](assets/docs/inicio.png)
 
 
-# *Kick-off
+# *Kick-off*
+
 ## Preguntas a Stakeholders
 
 Estás son las personas a las que consideramos importantes para el desarrollo de nuestro proyecto.
@@ -38,7 +39,7 @@ Crear un banco digital para millennials que pueda adaptarse a sus necesidades of
 
 ![BMC](assets/docs/bmc2.png)
 
-# *Flujo de trabajo 
+# *Flujo de trabajo* 
 
 Trabajamos con la herramienta Trello
 
@@ -47,7 +48,7 @@ Trabajamos con la herramienta Trello
 
 ***
 
-# *Modelo de entrevista
+# *Modelo de entrevista*
 
 ## Objetivo.
 
