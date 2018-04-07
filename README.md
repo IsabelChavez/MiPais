@@ -1,10 +1,9 @@
-# Mi País: Un banco para millennials.
+# Mi País
 
-Los millennials son aquellos nacidos en los años 80 en adelante y poseen características que los hacen únicos: la tecnología, es una herramienta natural para estos jóvenes en su día a día, el internet, el dispositivo móvil, los medios sociales son su forma de vida; están descontentos y son incrédulos, tienden a confiar menos en las personas que las generaciones anteriores, se declaran independientes y forman el grupo con mayor descontento político y religioso.
+Mi país, es una aplicación orientada a los millnnials personas de 18-30años aproximadamente, buscando la facilidad y comodidad al realizar sus transferencias, pagos y retiros sin necesidad de acercarse a un banco.
 
-La percepción de las generaciones más jóvenes acerca de los bancos es completamente diferente al de las generaciones precedentes: desconfían de los bancos y de los gestores por sentir que sólo querían engañarlos y venderles cosas que no necesitan, no perciben ninguna diferencia entre los bancos y no los ven como parte de su vida cotidiana.
+![inicio](assets/docs/inicio.png)
 
-Es por ello que nace que se propone crear un nuevo banco, basado en tecnología digital. El cual no tienen sucursales físicas y ofrecen servicios a través de aplicación móvil, ya que para estos jovenes la autonomía es la capacidad de lograr metas, amortiguar los imprevistos y sentirse menos dependientes.
 
 # Kick-off
 ## Preguntas a Stakeholders
@@ -146,6 +145,7 @@ Muchas gracias por por su tiempo :)
 
 
 # Afinity map 
+
 Llegamos a la conclusión de que los usuarios milenials principalmente hacen Pagos, Transferencias, Retiros llegando a la conclusión de que de cada 10 milenials 9 tienen cultura de ahorro.
 
 ![img1-estadistica](assets/docs/4.jpg)
