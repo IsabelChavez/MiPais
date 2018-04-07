@@ -39,7 +39,7 @@ Crear un banco digital para millennials que pueda adaptarse a sus necesidades of
 
 ![BMC](assets/docs/bmc2.png)
 
-# Flujo de trabajo
+## Flujo de trabajo
 
 Trabajamos con la herramienta Trello
 
@@ -48,7 +48,7 @@ Trabajamos con la herramienta Trello
 
 ***
 
-# Modelo de entrevista
+## Modelo de entrevista
 
 ## Objetivo.
 
