@@ -5,7 +5,7 @@ Mi país, es una aplicación orientada a los millnnials personas de 18-30años a
 ![inicio](assets/docs/inicio.png)
 
 
-# *Kick-off*
+## Kick-off
 
 ## Preguntas a Stakeholders
 
@@ -39,7 +39,7 @@ Crear un banco digital para millennials que pueda adaptarse a sus necesidades of
 
 ![BMC](assets/docs/bmc2.png)
 
-# *Flujo de trabajo* 
+# Flujo de trabajo
 
 Trabajamos con la herramienta Trello
 
@@ -48,7 +48,7 @@ Trabajamos con la herramienta Trello
 
 ***
 
-# *Modelo de entrevista*
+# Modelo de entrevista
 
 ## Objetivo.
 
@@ -61,7 +61,7 @@ Cuáles son las referencias que tienen estos usuarios en términos de tecnologí
 Los milenians no están familiarizados con el sector financiero.
 
 
-## Introducción.
+## Introducción
 Hola, soy “entrevistador” y voy a ser la persona encargada de guiarte durante toda la entrevista. Lo que queremos es conocerte un poco y saber con qué frecuencia visitas un banco, si tienes alguna app que te permita hacer las mismas transacciones que haces en una agencia de una manera más rápida y sencilla. Ésta conversación será grabada, el fín es utilizar la información para la App que estamos desarrollando.
 
 
