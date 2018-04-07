@@ -7,7 +7,7 @@ La percepción de las generaciones más jóvenes acerca de los bancos es complet
 Es por ello que nace que se propone crear un nuevo banco, basado en tecnología digital. El cual no tienen sucursales físicas y ofrecen servicios a través de aplicación móvil, ya que para estos jovenes la autonomía es la capacidad de lograr metas, amortiguar los imprevistos y sentirse menos dependientes.
 
 # Kick-off
-##  Preguntas a Stakeholders
+## Preguntas a Stakeholders
 
 Estás son las personas a las que consideramos importantes para el desarrollo de nuestro proyecto.
 
@@ -76,22 +76,22 @@ Banco de preferencia:
 App del Banco:
 
 
-Detailed Interview
+## Detailed Interview
 
 ### GUÍA DE ENTREVISTAS
 
 
-¿Usted es titular de una bancaria?¿En qué banco?
-¿Qué tan seguido va usted a un banco?
-¿Qué tipo de operación hace usted cuándo va a un banco?
-¿Ha tenido algún inconveniente cuándo ha realizado algunas operaciones?
-¿Cómo definiría usted su experiencia asistiendo a un banco?
-¿Utilizas la red de cajeros y agentes?
-¿Ha tenido algún inconveniente cuándo ha realizado algunas operaciones?
-¿usted hace uso de alguna app que realice las mismas operaciones que hace al acercarse a un banco?
+- ¿Usted es titular de una bancaria?¿En qué banco?
+- ¿Qué tan seguido va usted a un banco?
+- ¿Qué tipo de operación hace usted cuándo va a un banco?
+- ¿Ha tenido algún inconveniente cuándo ha realizado algunas operaciones?
+- ¿Cómo definiría usted su experiencia asistiendo a un banco?
+- ¿Utilizas la red de cajeros y agentes?
+- ¿Ha tenido algún inconveniente cuándo ha realizado algunas operaciones?
+- ¿usted hace uso de alguna app que realice las mismas operaciones que hace al acercarse a un banco?
                                  
            
-## Si							                                                    ## No
+## Si							                                                   
 
 
 - ¿Cómo se enteró de la existencia de dicha app?                                     
@@ -157,23 +157,23 @@ Llegamos a la conclusión de que los usuarios milenials principalmente hacen Pag
 ![img12-estadistica](assets/docs/19.jpeg)
 ![img12-estadistica](assets/docs/20.jpeg)
 
-#Flujo de nuestra aplicación
+## Flujo de nuestra aplicación
 ![img](assets/docs/estructura.png)
 
 
 ## Protipo final 
 
-Trabajamos con las herramientas ´Figma´ ´Marvel´
+Trabajamos con las herramientas *Figma* *Marvel*
 
-[Figma](https://www.figma.com/file/F866NsK7ZVvBTnxT9nxv5Q9J/Untitled).  |
+[Figma](https://www.figma.com/file/F866NsK7ZVvBTnxT9nxv5Q9J/Untitled).  
 
 Nuestro producto se presento el día viernes 09-03-18
 
-- [Primer producto opresentado](https://marvelapp.com/39i864e/screen/39487270). |
+- [Primer producto opresentado](https://marvelapp.com/39i864e/screen/39487270). 
 
 
 Recibimos feddback y realizamos los cambios
 
-- [Producto mejorado](https://marvelapp.com/14a5eh2g/screen/39548994). |
+- [Producto mejorado](https://marvelapp.com/14a5eh2g/screen/39548994).
 
 
