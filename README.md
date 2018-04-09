@@ -2,7 +2,7 @@
 
 Mi país, es una aplicación orientada a los millnnials personas de 18-30años aproximadamente, buscando la facilidad y comodidad al realizar sus transferencias, pagos y retiros sin necesidad de acercarse a un banco.
 
-![inicio](assets/docs/inicio.png)
+![pag 1](https://user-images.githubusercontent.com/30377942/38519764-8712e5f4-3c06-11e8-955c-a48feebdc7c1.png)
 
 
 ## Kick-off
