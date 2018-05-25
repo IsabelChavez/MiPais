@@ -8,6 +8,8 @@ Mi país, es un banco digital para millennials, con diseño atractivo en el cual
 
 [Laboratoria](http://www.laboratoria.la/)
 
+##  INVESTIGACIÓN
+
 Los millennials son aquellos nacidos en los años 80 en adelante y poseen características que los hacen únicos: la tecnología, es una herramienta natural para estos jóvenes en su día a día, el internet, el dispositivo móvil, los medios sociales son su forma de vida; están descontentos y son incrédulos, tienden a confiar menos en las personas que las generaciones anteriores, se declaran independientes y forman el grupo con mayor descontento político y religioso.
 
 La percepción de las generaciones más jóvenes acerca de los bancos es completamente diferente al de las generaciones precedentes: desconfían de los bancos y de los gestores por sentir que sólo querían engañarlos y venderles cosas que no necesitan, no perciben ninguna diferencia entre los bancos y no los ven como parte de su vida cotidiana.
