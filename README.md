@@ -47,7 +47,7 @@ Crear un banco digital para millennials que pueda adaptarse a sus necesidades of
 
 ![BMC](assets/docs/bmc2.png)
 
-# Flujo de trabajo 
+## Flujo de trabajo 
 
 Trabajamos con la herramienta Trello
 
@@ -165,7 +165,7 @@ Llegamos a la conclusión de que los usuarios milenials principalmente hacen Pag
 ![img12-estadistica](assets/docs/19.jpeg)
 ![img12-estadistica](assets/docs/20.jpeg)
 
-#Flujo de nuestra aplicación
+# Flujo de nuestra aplicación
 ![img](assets/docs/estructura.png)
 
 
